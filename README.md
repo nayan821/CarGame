@@ -7,14 +7,15 @@
 
 ## Technologies used
 #### The game was created using the following technologies:
-[![My Skills](https://github.com/nayan821/Car-Game)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)](https://github.com/nayan821/Car-Game)
 
+## Click here to play: [Play Now](https://nayan821.github.io/Car-Game/)
 
 ## :camera: Image Preview
 <img src="./images/preview1.png" alt="preview1">
 <img src="./images/preview2.png" alt="preview2">
 
-## Other Projects coming soon...
+## Other Projects
 ### Here are some other projects that you might be interested in:
-
+### [New Portfolio](https://github.com/nayan821/newportfolio)
 ### [more](https://github.com/nayan821)
